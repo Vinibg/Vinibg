@@ -1,7 +1,6 @@
 ## Welcome!
 
 - 🔭 Working with php as a web developer
-- 🌱 I’m currently learning python for data science
 
 <div align="center">
   <a href="https://github.com/Vinibg">
