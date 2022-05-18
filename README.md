@@ -1,6 +1,6 @@
 ## Welcome!
 
-- 🔭 Working with php as a web developer
+- 🔭 Working as a web developer
 
 <div align="center">
   <a href="https://github.com/Vinibg">
