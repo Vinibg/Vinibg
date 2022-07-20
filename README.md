@@ -18,7 +18,7 @@
     <img align="center" alt="Vinícius-typescript" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="center" alt="Vinícius-nest" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Vinícius-php" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Vinícius-laravel" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="Vinícius-laravel" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Vinícius-python" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Vinícius-mysql" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="Vinícius-postgresql" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
